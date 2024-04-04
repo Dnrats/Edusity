@@ -46,3 +46,19 @@
     display: block;
     margin: 20px 0;
 }
+
+@media (max-width: 600px) {
+    .contact{
+        display: block;
+    }
+    .contact-col{
+        padding: 20px;
+    }
+    .contact-col p{
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .contact-col h3{
+        padding-bottom: 15px;
+    }
+}
