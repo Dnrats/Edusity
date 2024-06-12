@@ -8,14 +8,19 @@ The primary goal of EduSity was to gain hands-on experience with React.js, inclu
 
 ## Technologies Used
 React.js: Utilized for building the user interface.
+
 JSX: Employed to write HTML-like syntax within JavaScript.
+
 CSS: Used for styling the website.
+
 Node.js: To install and configure dependencies.
 
 ## Features
 
 Responsive Design: The website is designed to be responsive, ensuring it looks good on both desktop and mobile devices.
+
 Single Page Layout: All content is contained within a single page, providing a streamlined user experience.
+
 Educational Content: Displays information about the university, degree programs, and the enrollment process.
 
 ## Development Process
@@ -25,12 +30,15 @@ The development process began by following a tutorial by an Indian creator on Yo
 ##Challenges and Learning Outcomes
 
 React Fundamentals: Gained a solid understanding of React's component-based architecture and state management.
+
 JSX Syntax: Learned how to write and integrate JSX within the React application.
+
 Styling: Enhanced skills in CSS to ensure the website is visually appealing and responsive.
 
 ## Future Enhancements
 
 Tailwind CSS: Consider using Tailwind CSS in future projects to streamline styling and enhance maintainability.
+
 Additional Features: Expand the website to include more interactive elements and additional pages.
 
 ## Access
