@@ -27,7 +27,7 @@ Educational Content: Displays information about the university, degree programs,
 
 The development process began by following a tutorial by an Indian creator on YouTube. The tutorial guided me through the basics of React, helping me set up the environment and create the components necessary for the website. The choice to use CSS over Tailwind was made to keep the project simple and focused on learning the core concepts of React.
 
-##Challenges and Learning Outcomes
+## Challenges and Learning Outcomes
 
 React Fundamentals: Gained a solid understanding of React's component-based architecture and state management.
 
